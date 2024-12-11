@@ -17,4 +17,3 @@ Total Profit: $25.97M
 Total Loss: $25.97k
 Customers: 20,248
 ![My-new-sheet-2--12-10-2024_06_47_PM](https://github.com/user-attachments/assets/92b1a3c4-da8f-4f8d-9049-297ac5de2c38)
-<iframe src="http://localhost:4848/single/?appid=C%3A%5CUsers%5C91907%5CDocuments%5CQlik%5CSense%5CApps%5Cfinal.qvf&sheet=Ummwmna&theme=sense&opt=ctxmenu,currsel" style="border:none;width:100%;height:100%;"></iframe>
