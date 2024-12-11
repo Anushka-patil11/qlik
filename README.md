@@ -1,4 +1,5 @@
 #Qlik Sense Sales Dashboard
+https://github.com/user-attachments/assets/32022783-620f-4350-908f-3d4f65d5322b
 
 A comprehensive Qlik Sense dashboard to visualize sales, profits, customer trends, and geographic performance.
 
